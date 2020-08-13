@@ -1,0 +1,89 @@
+C:\Users\USER\Desktop\python>python -u "c:\Users\USER\Desktop\python\r_coroutines.py"
+Traceback (most recent call last):
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 16, in <module>
+    next(search)
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 3, in nameFinder
+    f2 = open("f2.txt", 'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'f2.txt'
+
+C:\Users\USER\Desktop\python>python -u "c:\C:\Users\USER\Desktop\python>python -u "c:\Users\USER\Desktop\python\r_coroutines.py"
+Traceback (most recent call last):
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 16, in <module>
+    next(search)
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 3, in nameFinder
+    f2 = open("f2.txt", 'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'f2.txt'
+
+C:\Users\USER\Desktop\python>python -u "c:\C:\Users\USER\Desktop\python>python -u "c:\Users\USER\Desktop\python\r_coroutines.py"
+Traceback (most recent call last):
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 16, in <module>
+    next(search)
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 3, in nameFinder
+    f2 = open("f2.txt", 'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'f2.txt'
+
+C:\Users\USER\Desktop\python>python -u "c:\C:\Users\USER\Desktop\python>python -u "c:\Users\USER\Desktop\python\r_coroutines.py"
+Traceback (most recent call last):
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 16, in <module>
+    next(search)
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 3, in nameFinder
+    f2 = open("f2.txt", 'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'f2.txt'
+
+C:\Users\USER\Desktop\python>python -u "c:\C:\Users\USER\Desktop\python>python -u "c:\Users\USER\Desktop\python\r_coroutines.py"
+Traceback (most recent call last):
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 16, in <module>
+    next(search)
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 3, in nameFinder
+    f2 = open("f2.txt", 'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'f2.txt'
+
+C:\Users\USER\Desktop\python>python -u "c:\C:\Users\USER\Desktop\python>python -u "c:\Users\USER\Desktop\python\r_coroutines.py"
+Traceback (most recent call last):
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 16, in <module>
+    next(search)
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 3, in nameFinder
+    f2 = open("f2.txt", 'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'f2.txt'
+
+C:\Users\USER\Desktop\python>python -u "c:\C:\Users\USER\Desktop\python>python -u "c:\Users\USER\Desktop\python\r_coroutines.py"
+Traceback (most recent call last):
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 16, in <module>
+    next(search)
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 3, in nameFinder
+    f2 = open("f2.txt", 'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'f2.txt'
+
+C:\Users\USER\Desktop\python>python -u "c:\C:\Users\USER\Desktop\python>python -u "c:\Users\USER\Desktop\python\r_coroutines.py"
+Traceback (most recent call last):
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 16, in <module>
+    next(search)
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 3, in nameFinder
+    f2 = open("f2.txt", 'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'f2.txt'
+
+C:\Users\USER\Desktop\python>python -u "c:\C:\Users\USER\Desktop\python>python -u "c:\Users\USER\Desktop\python\r_coroutines.py"
+Traceback (most recent call last):
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 16, in <module>
+    next(search)
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 3, in nameFinder
+    f2 = open("f2.txt", 'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'f2.txt'
+
+C:\Users\USER\Desktop\python>python -u "c:\C:\Users\USER\Desktop\python>python -u "c:\Users\USER\Desktop\python\r_coroutines.py"
+Traceback (most recent call last):
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 16, in <module>
+    next(search)
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 3, in nameFinder
+    f2 = open("f2.txt", 'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'f2.txt'
+
+C:\Users\USER\Desktop\python>python -u "c:\C:\Users\USER\Desktop\python>python -u "c:\Users\USER\Desktop\python\r_coroutines.py"
+Traceback (most recent call last):
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 16, in <module>
+    next(search)
+  File "c:\Users\USER\Desktop\python\r_coroutines.py", line 3, in nameFinder
+    f2 = open("f2.txt", 'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'f2.txt'
+
+C:\Users\USER\Desktop\python>python -u "c:\
